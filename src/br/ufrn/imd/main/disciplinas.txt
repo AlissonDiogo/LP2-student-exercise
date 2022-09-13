@@ -1,0 +1,4 @@
+1;Linguagem de programação 1;not;2
+2;Estrutura de dados básicos 1;not;1
+3;Linguagem de programação 2;1;4
+4;Estrutura de dados básicos 2;2;3
